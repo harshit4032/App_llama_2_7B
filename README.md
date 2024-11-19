@@ -40,6 +40,9 @@ The main objectives of this project are:
 
 - **Interface**:
   - A GUI built with **KivyMD** for user-friendly interactions.
+  - ### Snapshot of the Interface
+    ![KivyMD Interface Snapshot](assets/interface_snapshot.png)
+
 
 ---
 
