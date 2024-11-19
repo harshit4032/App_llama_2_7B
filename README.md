@@ -1,7 +1,7 @@
 
 # LLaMA 2 from Scratch and Fine-Tuning with LoRA/QLoRA
 
-This project demonstrates how to implement the LLaMA 2 architecture from scratch using PyTorch, and fine-tune the model with custom datasets using LoRA (Low-Rank Adaptation) and QLoRA techniques. A graphical interface is provided using KivyMD, enabling easy interaction with the fine-tuned model.
+This project demonstrates how to implement the **LLaMA 2** architecture from scratch using **PyTorch**, and fine-tune the model with custom datasets using **LoRA (Low-Rank Adaptation)** and **QLoRA techniques**. A graphical interface is provided using **KivyMD**, enabling easy interaction with the fine-tuned model.
 
 ---
 
