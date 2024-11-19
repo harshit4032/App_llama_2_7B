@@ -50,7 +50,7 @@ The main objectives of this project are:
 
 2. **Fine-Tuning Tutorial**  
    - [Fine-Tuning with LoRA and QLoRA (YouTube)](https://www.youtube.com/watch?v=oM4VmoabDAI&t=1156s)  
-   - [Fine-Tuning Notebook (Google Colab)](https://drive.google.com/file/d/1Bd7c5rioBOmtJbDEax83vAHEPru-r06l/view?usp=sharing)
+   - [Fine-Tuning Notebook (Google Colab)](https://colab.research.google.com/drive/1bvmuV93BSJBYyDZ8jzNDitZYeQ6tZ5nz?usp=sharing)
 
 3. **LLaMA 2 Weights**  
    - [Meta LLaMA 2 Weights on Hugging Face](https://huggingface.co/meta-llama/Llama-2-7b/tree/main)
@@ -73,7 +73,7 @@ The main objectives of this project are:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/App_llama_2_7B.git
+   git clone https://github.com/hashit4032/App_llama_2_7B.git
    cd App_llama_2_7B
    ```
 
@@ -117,7 +117,7 @@ The main objectives of this project are:
 
 ### Detailed Process
 
-For step-by-step guidance, refer to the [Colab Notebook](https://drive.google.com/file/d/1Bd7c5rioBOmtJbDEax83vAHEPru-r06l/view?usp=sharing).
+For step-by-step guidance, refer to the [Colab Notebook](https://colab.research.google.com/drive/1bvmuV93BSJBYyDZ8jzNDitZYeQ6tZ5nz?usp=sharing).
 
 ---
 
