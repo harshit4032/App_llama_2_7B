@@ -34,6 +34,7 @@ The main objectives of this project are:
 - **Fine-Tuning**:
   - Dataset: [mlabonne/guanaco-llama2-1k](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k) (1,000 samples formatted for LLaMA 2).
   - Techniques: LoRA and QLoRA to reduce computational overhead.
+  - The fine-tuning code is written in the following [Colab Notebook](https://colab.research.google.com/drive/1bvmuV93BSJBYyDZ8jzNDitZYeQ6tZ5nz?usp=sharing).
 
 - **Deployment**:
   - Fine-tuned model uploaded to [Hugging Face](https://huggingface.co/entbappy/Llama-2-7b-chat-finetune/commit/bec89c5a59d14d2a8d656911ade2bf73041b5707) for accessibility.
